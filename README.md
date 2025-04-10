@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yanet24
-- 👀 I’m interested in creating and building things
-- 🌱 I’m currently learning c++
+- 👀 I’m interested in data
+- 🌱 I’m currently learning sql 
 - 💞️ I’m looking to collaborate on different projects to expand my knowledge 
 - 📫 How to reach me. osigophanuel@gmail.com 
 - 😄 Pronouns: she
